@@ -1,0 +1,13 @@
+<resources>
+    //pick_image
+    <string name="app_name">Highlighter</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="todo">TODO</string>
+
+    //draw
+    <string name="start_now">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+</resources>
